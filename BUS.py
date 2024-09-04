@@ -23,7 +23,7 @@ def gstreamer_pipeline(
     display_width=960,
     display_height=540,
     framerate=30,
-    flip_method=0,
+    flip_method=2,
 ):
     return (
         "nvarguscamerasrc sensor-id=%d ! "
@@ -48,7 +48,7 @@ def show_camera():
 
     # To flip the image, modify the flip_method parameter (0 and 2 are the most common)
     print(gstreamer_pipeline(flip_method=0))
-    video_capture = cv2.VideoCapture(gstreamer_pipeline(flip_method=0), cv2.CAP_GSTREAMER)
+    video_capture = cv2.VideoCapture(gstreamer_pipeline(flip_method=2), cv2.CAP_GSTREAMER)
     if video_capture.isOpened():
         try:
             window_handle = cv2.namedWindow(window_title, cv2.WINDOW_AUTOSIZE)
