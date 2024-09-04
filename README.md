@@ -1,5 +1,6 @@
 # BUS
 제22회 임베디드 소프트웨어 경진대회 BUS 코드
+jetson orin nano에서 사용한 코드
 
 MIT License
 
