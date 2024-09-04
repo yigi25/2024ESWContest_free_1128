@@ -4,7 +4,7 @@ jetson orin nano에서 사용한 코드
 
 BUS.py - (동작 코드)
 
-best.pt-(학습시킨 모델)
+best.pt - (학습시킨 모델)
 
 python3 BUS.py 명령어를 통해 실행
 
