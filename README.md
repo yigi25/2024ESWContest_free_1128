@@ -2,7 +2,7 @@
 제22회 임베디드 소프트웨어 경진대회 BUS팀 코드
 jetson orin nano에서 사용한 코드
 
-동작 코드 BUS.py
+BUS.py - (동작 코드)
 
 best.pt-(학습시킨 모델)
 
