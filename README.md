@@ -1,5 +1,6 @@
 # BUS
-제22회 임베디드 소프트웨어 경진대회 BUS팀 코드
+제22회 임베디드 소프트웨어 경진대회 BUS(1128)팀 코드
+2024ESWContest_free_1128
 jetson orin nano에서 사용한 코드
 
 BUS.py - (동작 코드)
