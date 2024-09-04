@@ -4,7 +4,7 @@ jetson orin nano에서 사용한 코드
 
 MIT License
 
-Copyright (c) 2019-2022 JetsonHacks
+Copyright (c) 2024 yigi25
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
